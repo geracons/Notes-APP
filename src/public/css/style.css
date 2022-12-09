@@ -4,3 +4,19 @@ background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  /* Chrome 10-2
 background: linear-gradient(to right, #2F80ED, #56CCF2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
+
+.logo{
+    width: 50%;
+    
+}
+
+.nav a{
+    color: gray;
+}
+
+a:hover{
+    color: gray;
+}
+a:active {
+    color: gray;
+}
